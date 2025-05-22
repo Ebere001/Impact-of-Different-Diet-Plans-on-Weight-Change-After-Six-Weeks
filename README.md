@@ -22,7 +22,10 @@ An exploratory analysis of the "Diet" data was carried out to answer essential q
 - Are there any outliers in baseline weight within each diet category?
 - Was normal distribution observed within each group?
 - Is there equality of variance between the groups?
-- Are there significant differences in baseline body weight between participants following different diets 
+- Are there significant differences in baseline body weight between participants following different diets
+
+### Data Analysis
+A Python script has been attached to this documentation.
 
    
 
