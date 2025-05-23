@@ -18,7 +18,7 @@ During the initial data preparation stage, we carried out the following tasks:
 - Data formatting
 
 ### Exploratory Data Analysis
-An exploratory analysis of the "Diet" data was carried out to answer essential questions like:
+An exploratory analysis of the "Diet" dataset was carried out to answer essential questions like:
 - Are there any outliers in baseline weight within each diet category?
 - Was normal distribution observed within each group?
 - Is there equality of variance between the groups?
