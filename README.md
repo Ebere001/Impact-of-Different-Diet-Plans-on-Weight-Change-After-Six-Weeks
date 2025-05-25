@@ -35,11 +35,12 @@ A one-way Anova was conducted to determine if the types of diet have an impact o
    There is no statistically significant difference between the impact of the types of diet on weight change after six weeks of dieting,
 F(2, 75) = 0.260, p = 0.772, ω² = -0.0194 ≈ 0
 
-The results imply that all three diets produced similar outcomes in terms of weight change, within the sample and timeframe studied.
+This result implies that all three diets produced similar outcomes in terms of weight change, within the sample and timeframe studied.
 
 ### Recommendation
 Since the data met all assumptions for valid ANOVA analysis—including normality, homogeneity of variances, and limited outlier influence, this conclusion is considered robust within the study’s scope.
 Therefore, dietary recommendations should focus on individual sustainability, nutritional adequacy, and personal preference rather than assuming one diet is more effective for short-term weight reduction.
+Future studies should consider evaluating longer intervention periods, incorporating additional health outcomes (e.g., body fat percentage, metabolic markers), and possibly increasing the sample size to detect smaller effects if they exist.
  
 ### Limitations
 
