@@ -1,7 +1,7 @@
 # Impact of Different Diet Plans on Weight Change After Six Weeks
 
 
-### Project Overview
+### Analysis Overview
 This analysis aims to evaluate how three distinct diet plans (Diet 1, Diet 2, and Diet 3) influence individuals' weight outcomes after six weeks. By comparing the weight measurements at the six-week mark across these diet groups, the study seeks to identify which diet is most effective for weight loss or maintenance. Additionally, detecting and understanding any outliers in the data will help ensure the robustness of the results and provide insights into individual variations.
 
 ### Data Source
