@@ -1,4 +1,4 @@
-# Impact of Different Diet Plans on Weight Change After Six Week
+# Impact of Different Diet Plans on Weight Change After Six Weeks
 
 
 ### Project Overview
