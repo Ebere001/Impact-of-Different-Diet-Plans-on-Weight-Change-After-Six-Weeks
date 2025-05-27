@@ -8,6 +8,7 @@ This analysis aims to evaluate how three distinct diet plans (Diet 1, Diet 2, an
 The data used in this analysis was sourced from a CSV file named 'Diet.csv', which contains information on individuals' weight changes over six weeks under three different diet plans.
 
 ### Tools
+- Microsoft Excel
 - SQL- Data Cleaning
 - Python- Data Analysis
 
