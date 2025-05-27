@@ -43,6 +43,12 @@ Therefore, dietary recommendations should focus on individual sustainability, nu
 Future studies should consider evaluating longer intervention periods, incorporating additional health outcomes (e.g., body fat percentage, metabolic markers), and possibly increasing the sample size to detect smaller effects if they exist.
  
 ### Limitations
+- Presence of an Outlier
+- Small Effect Size (ω² ≈ 0)
+- Sample Size Considerations
+- Lack of Control for Confounding Variables
+- Only One Time Point Assessed
+- Assumption of Homogeneity May Be Affected by Outlier
 
    
 
