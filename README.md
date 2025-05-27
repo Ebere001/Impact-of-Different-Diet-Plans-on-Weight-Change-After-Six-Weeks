@@ -40,7 +40,7 @@ This result implies that all three diets produced similar outcomes in terms of w
 ### Recommendation
 Since the data met all assumptions for valid ANOVA analysis—including normality, homogeneity of variances, and limited outlier influence, this conclusion is considered robust within the study’s scope.
 Therefore, dietary recommendations should focus on individual sustainability, nutritional adequacy, and personal preference rather than assuming one diet is more effective for short-term weight reduction.
-Future studies should consider evaluating longer intervention periods, incorporating additional health outcomes (e.g., body fat percentage, metabolic markers), and possibly increasing the sample size to detect smaller effects if they exist.
+
  
 ### Limitations
 - Presence of an Outlier
